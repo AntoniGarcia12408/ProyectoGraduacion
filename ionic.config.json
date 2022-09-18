@@ -1,0 +1,7 @@
+{
+  "name": "TrackingApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
